@@ -1,2 +1,3 @@
-# my-dynamic-proxy
-study dynamic proxy
+# 自定义的动态代理概述
+
+JDK 的动态代理的实质就是 JDK 生成了需要被代理接口的实现类
